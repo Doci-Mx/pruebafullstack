@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PruebaFloresApplication<prueba-flores>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.pruebaflores.prueba_flores.PruebaFloresApplication",
+            "projectName": "prueba-flores",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
